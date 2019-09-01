@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Your Contacts</string>
+    <string name="name1">Jones, Julio</string>
+    <string name="name2">Johnson, David</string>
+    <string name="num1">(333)-456-7890</string>
+    <string name="num2">(555)-555-5555</string>
+    <string name="add1">9567 Lakewood Rd. Atlanta, GA</string>
+    <string name="add2">347 Franklin Way Mesa, AZ</string>
+    <string name="pic1">contact1</string>
+    <string name="pic2">contact2</string>
+    <string name="contacts">Contact List</string>
+    <string name="but1">See Contact</string>
+    <string name="but2">See Contact</string>
+</resources>
